@@ -39,7 +39,7 @@
 <div class="container">
     <div class="content">
         <div class="title" style="color: red">Eagle Financial Services</div>
-        <a href="http://efs-banala.herokuapp.com/customers" style="font-size:150%;"><b>Enter Here</b></a>
+        <a href="http://localhost/efs/public/customers" style="font-size:150%;"><b>Enter Here</b></a>
     </div>
 </div>
 </body>
